@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I interned this summer (2020) at NASA JPL on the 2020 Mars Rover, and am continuing part-time through the fall academic semester.
-- 🌱 In my spare time, I’m currently working on an [anonymous survey engine](https://github.com/The-Percentage-Project/survey-engine) for [The Percentage Project](https://percentageproject.com/#/), a non-profit working on collecting data and advocating for unheard voices in CS.
-- 😄 Pronouns: he/him/his
-- 💬 I like talking about poetry (especially Rilke) and learning languages.
+- 🔭  I interned this summer (2020) at NASA JPL on the 2020 Mars Rover, and am continuing part-time through the fall academic semester.
+- 🌱  In my spare time, I’m currently working on an [anonymous survey engine](https://github.com/The-Percentage-Project/survey-engine) for [The Percentage Project](https://percentageproject.com/#/), a non-profit working on collecting data and advocating for unheard voices in CS.
+- 😄  Pronouns: he/him/his
+- 💬  I like talking about poetry (especially Rilke) and learning languages.
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
