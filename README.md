@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gfting&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfting&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Commits to private repos are unforunately not showing up.
