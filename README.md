@@ -6,10 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭  I interned this summer (2020) at NASA JPL on the 2020 Mars Rover, and am continuing part-time through the fall academic semester.
-- 🌱  In my spare time, I’m currently working on an [anonymous survey engine](https://github.com/The-Percentage-Project/survey-engine) for [The Percentage Project](https://percentageproject.com/#/), a non-profit working on collecting data and advocating for unheard voices in CS.
-- 🍑  I am the current co-president of [VandyHacks](https://vandyhacks.org/) and president of [VandyApps](https://vandyapps.club/). 
-- 🐡  I am also a senior instructor for [Juni Learning](https://junilearning.com/), a YCombinator startup. I write C++, Web Development, and Python [curriculum](https://junilearning.com/coding/), and also teach for USACO. I also record educational videos for their [YouTube](https://youtube.com/junilearning).
+- 🍎  Currently a SWE at Apple, working in Apple Media Products.
+- 🔭  I interned in the summer of 2020 at NASA JPL on the 2020 Mars Rover, and continued part-time through the fall academic semester.
+- 🌱  In my spare time, I built an [anonymous survey engine](https://github.com/The-Percentage-Project/survey-engine) for [The Percentage Project](https://percentageproject.com/#/), a non-profit working on collecting data and advocating for unheard voices in CS.
+- 🍑  Former president of [VandyHacks](https://vandyhacks.org/) and [VandyApps](https://vandyapps.club/). 
+- 🐡  Former senior instructor for [Juni Learning](https://junilearning.com/), a YCombinator startup. I wrote C++, Web Development, and Python [curriculum](https://junilearning.com/coding/), and also taught for USACO. I also recorded educational videos for their [YouTube](https://youtube.com/junilearning).
 - 😄  Pronouns: he/him/his
 - 💬  I like talking about poetry (especially Rilke) and learning languages.
 - 📫  You can find me via email!
